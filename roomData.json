@@ -1,0 +1,347 @@
+[
+    {
+        "ID": 24,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Kart"
+            }
+        ],
+        "preGameFunctionName": "preStartBlackjackGame",
+        "question": "",
+        "welcomeMsg": "Gazino"
+    },
+    {
+        "ID": 7,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Kagit"
+            }
+        ],
+        "preGameFunctionName": "preStartMazeGame",
+        "question": "",
+        "welcomeMsg": "Labirent"
+    },
+    {
+        "ID": 6,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Kuru Kafa"
+            }
+        ],
+        "preGameFunctionName": "preStartGraveyardGame",
+        "question": "",
+        "welcomeMsg": "Mezarlik"
+    },
+    {
+        "ID": 17,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Tas"
+            }
+        ],
+        "preGameFunctionName": "preStartMountainGame",
+        "question": "",
+        "welcomeMsg": "Volkanik Dag"
+    },
+    {
+        "ID": 12,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Yuzuk"
+            }
+        ],
+        "preGameFunctionName": "preStartSarmasikGame",
+        "question": "",
+        "welcomeMsg": "Sarmasikli Oda"
+    },
+    {
+        "ID": 18,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Yuzuk"
+            }
+        ],
+        "preGameFunctionName": "preStartParkingGame",
+        "question": "",
+        "welcomeMsg": "Otopark"
+    },
+    {
+        "ID": 5,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Kostekli Saat"
+            },
+            {
+                "available": true,
+                "name": "Matara"
+            }
+        ],
+        "preGameFunctionName": "preStartDesertGame",
+        "question": "",
+        "welcomeMsg": "Teleporttan dustugu anda kendini simsicak issiz bir colun ortasinda bulur."
+    },
+    {
+        "ID": 14,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Cali Meyvesi"
+            },
+            {
+                "available": true,
+                "name": "Anahtar"
+            },
+            {
+                "available": true,
+                "name": "Makas"
+            }
+        ],
+        "preGameFunctionName": "preStartTGravityGame",
+        "question": "",
+        "welcomeMsg": "Yercekimsiz Oda"
+    },
+    {
+        "ID": 10,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Gemi maketi"
+            }
+        ],
+        "preGameFunctionName": "preStartIslandGame",
+        "question": "",
+        "welcomeMsg": "Ada"
+    },
+    {
+        "ID": 9,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Tarot Karti"
+            }
+        ],
+        "preGameFunctionName": "preStartFunfairGame",
+        "question": "",
+        "welcomeMsg": "Lunapark"
+    },
+    {
+        "ID": 8,
+        "answer": "Berhan",
+        "items": [
+            {
+                "available": true,
+                "name": "Kleopatra Yumurtasi"
+            }
+        ],
+        "preGameFunctionName": "preStartSnakeGame",
+        "question": "Duvarda ne yaziyor ?",
+        "welcomeMsg": "Hayvanat Bahcesi"
+    },
+    {
+        "ID": 2,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Meyve"
+            },
+            {
+                "available": true,
+                "name": "Tahta Kalem"
+            }
+        ],
+        "preGameFunctionName": "preStartForestGame",
+        "question": "",
+        "welcomeMsg": "Buyulu Orman"
+    },
+    {
+        "ID": 11,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Yapboz Parcasi"
+            }
+        ],
+        "preGameFunctionName": "preStartMathGame",
+        "question": "",
+        "welcomeMsg": "Matematik Odasi"
+    },
+    {
+        "ID": 25,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "At Nali"
+            }
+        ],
+        "preGameFunctionName": "preStartHippodromeGame",
+        "question": "",
+        "welcomeMsg": "Hipodrom"
+    },
+    {
+        "ID": 15,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Gozluk"
+            }
+        ],
+        "preGameFunctionName": "preStartEspriGame",
+        "question": "",
+        "welcomeMsg": "Espri Odasi"
+    },
+    {
+        "ID": 21,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Kazma"
+            },
+            {
+                "available": true,
+                "name": "Fener"
+            }
+        ],
+        "preGameFunctionName": "preStartQuarryGame",
+        "question": "",
+        "welcomeMsg": "Maden Ocagi"
+    },
+    {
+        "ID": 19,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Oyuncak ayi"
+            }
+        ],
+        "preGameFunctionName": "preStartTetrisGame",
+        "question": "",
+        "welcomeMsg": "Agac Ev"
+    },
+    {
+        "ID": 20,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Kitap"
+            }
+        ],
+        "preGameFunctionName": "preStartWordGame",
+        "question": "",
+        "welcomeMsg": "Kelime Odasi"
+    },
+    {
+        "ID": 1,
+        "answer": "1",
+        "items": [
+            {
+                "available": true,
+                "name": "Oyuncak Bebek"
+            }
+        ],
+        "preGameFunctionName": "preStartHorrorGame",
+        "question": "1-0 ?",
+        "welcomeMsg": "Korku Evi"
+    },
+    {
+        "ID": 16,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Sef Sapkasi"
+            }
+        ],
+        "preGameFunctionName": "preStartKitchenGame",
+        "question": "",
+        "welcomeMsg": "Mutfak"
+    },
+    {
+        "ID": 22,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Asma Kilit"
+            }
+        ],
+        "preGameFunctionName": "preStartWaspGame",
+        "question": "",
+        "welcomeMsg": "Ari Kovani"
+    },
+    {
+        "ID": 4,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Inci"
+            }
+        ],
+        "preGameFunctionName": "preStartLakeGame",
+        "question": "",
+        "welcomeMsg": "Gol"
+    },
+    {
+        "ID": 13,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Mendil"
+            }
+        ],
+        "preGameFunctionName": "preStartTictactoeGame",
+        "question": "",
+        "welcomeMsg": "Oyun Odasi"
+    },
+    {
+        "ID": 23,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Sikke"
+            }
+        ],
+        "preGameFunctionName": "preStartLaboratoryGame",
+        "question": "",
+        "welcomeMsg": "Bulut ve Boncuk kendilerini kocaman bir okulun koridorunda bulurlar."
+    },
+    {
+        "ID": 3,
+        "answer": "",
+        "items": [
+            {
+                "available": true,
+                "name": "Maske"
+            }
+        ],
+        "preGameFunctionName": "preStartCostumeGame",
+        "question": "",
+        "welcomeMsg": "Possible Maskeli Balo"
+    }
+]
